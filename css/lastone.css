@@ -35,4 +35,6 @@ body{font-family: Georgia, 'Times New Roman', Times, serif;
      -1px  1px 0 #1178abbd,
       1px  1px 0 #1178abbd; /*Outline effect */}
    
-  
+      .custom-list {
+        list-style-type: disc; /* Change bullet style to filled circles */
+        color: rgb(22, 138, 18);}
