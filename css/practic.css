@@ -45,10 +45,10 @@
     
 z-index: 1;
     text-shadow: 
-    -1px -1px 0 #08cbf7,  
-     1px -1px 0 #08cbf7,
-    -1px  1px 0 #08cbf7,
-     1px  1px 0 #08cbf7; /* Set multiple shadows to create the outline effect */
+    -1px -1px 0 #a3d8fb,  
+     1px -1px 0 #a3d8fb,
+    -1px  1px 0 #a3d8fb,
+     1px  1px 0 #a3d8fb; /* Set multiple shadows to create the outline effect */
 }
 .fix{
     
